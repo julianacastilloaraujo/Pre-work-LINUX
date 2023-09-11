@@ -1,4 +1,9 @@
-# Curso de Prework: Configuración de Entorno de Desarrollo en Linux
-* Profe: Enrique Devars(@edevars)
-* Que es Linux
+# Curso de Prework: Configuración de Entorno de Desarrollo en Linux 🐧 (Tux)
+* Platzi 💚
+* Profe: Enrique Devars 👨‍💻
+* User (@edevars) 📱
+* Que es Linux 🐧
 * Versiones/Distribuciones
+* VirtualBox
+* USBBooteable
+* Navegador
