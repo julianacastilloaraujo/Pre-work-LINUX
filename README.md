@@ -10,3 +10,4 @@
 * Live Server en proyectos reales de HTML 🩻 y CSS 🎨
 * HTML (index.html) 🩻
 * CSS (index.css) 🎨
+* JavaScript (index.js) 💛
