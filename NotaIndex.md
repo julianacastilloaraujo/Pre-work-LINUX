@@ -6,3 +6,5 @@
 * al escribir !
 * en VSCode
 * Emmet lo autocompeta todo
+* Title cambia y pone un nombre a la pestana
+* H1 es una etiqueta que nos permite anadir texto
