@@ -25,3 +25,10 @@
 * <link rel="stylesheet" href="index.css">
 * El index.css que va dentro de href="" es el nombre al que l ehemos llamado nuestro .css
 * Va la etiqueta link con el emmet de link:css
+  
+# Llamado de index.js e index.css en index.html
+* Wow
+* Primero
+* El index.css va dentro de la etiqueta head antes de la etiqueta title
+* El index.js va dentro de la etiqueta body
+* El llamado es script:src con emmet
