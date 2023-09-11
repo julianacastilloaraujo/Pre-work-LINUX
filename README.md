@@ -5,5 +5,8 @@
 * Que es Linux 🐧
 * Versiones/Distribuciones
 * VirtualBox
-* USBBooteable
-* Navegador
+* USBBooteable (💾)
+* Navegador (Chrome)👩‍💻
+* Live Server en proyectos reales de HTML 🩻 y CSS 🎨
+* HTML (index.html) 🩻
+* CSS (index.css) 🎨
